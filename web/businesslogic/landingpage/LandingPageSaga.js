@@ -1,4 +1,4 @@
-import store from './../../../libs/flux/store';
+import { store } from '@betacrew/jars-flux'
 import { put, takeEvery, all, call } from 'redux-saga/effects'
 import axios from 'axios';
 import { componentKey, updateRandomString} from './LandingPageSlice';

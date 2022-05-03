@@ -31,6 +31,7 @@
   "dependencies": {
     "@babel/plugin-transform-react-constant-elements": "7.2.0",
     "@babel/plugin-transform-react-inline-elements": "7.2.0",
+    "@betacrew/jars-flux": "^1.0.5",
     "@fortawesome/fontawesome-free": "5.14.0",
     "@fortawesome/react-fontawesome": "^0.1.14",
     "@react-navigation/bottom-tabs": "^6.0.7",

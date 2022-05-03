@@ -1,4 +1,4 @@
-import store from './../../../libs/flux/store';
+import { store } from '@betacrew/jars-flux'
 
 export const componentKey = "LANDING_PAGE";
 
