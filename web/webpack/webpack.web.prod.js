@@ -1,0 +1,6 @@
+const { merge } = require('webpack-merge');
+const common = require('./webpack.common');
+
+const env = 'production';
+const envConfig = require(`./webpack.${env}.js`);
+module.exports = merge(common(env), envConfig);

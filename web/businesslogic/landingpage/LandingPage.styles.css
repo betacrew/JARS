@@ -1,0 +1,25 @@
+.main-container {
+    background-color: rgba(31, 31, 31, 1);
+    color: #fff;
+    height: 100vh;
+}
+
+.container-row {
+    justify-content: center;
+    text-align: center;
+}
+
+.container-body h1 {
+    color: #7BD4FB;
+}
+
+.container-body h3 {
+    color: #ffffff;
+}
+
+.random-string {
+    border-color: #BE63E5;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+}

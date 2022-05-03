@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "jars",
+    "slug": "jars",
+    "scheme": "jars",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/jars_logo.png",
+    "splash": {
+      "image": "./assets/jars_logo_with_text.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
